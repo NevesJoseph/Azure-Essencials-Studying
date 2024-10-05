@@ -70,7 +70,8 @@ Sinta-se à vontade para:
 
 ⭐ Se este repositório foi útil para você, considere dar uma estrela!
 
-📧 Contato: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-neves07/)
+📧 Contato: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-neves07/)
 
 ---
 *Última atualização: 04/10/24*
